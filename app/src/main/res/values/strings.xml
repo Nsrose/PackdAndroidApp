@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">HelloWorldV3</string>
+    <string name="app_name">Packd</string>
     <string name="hello_world">Hello world! - Tara edit</string>
     <string name="test">changes here</string>
     <string name="action_settings">Settings</string>

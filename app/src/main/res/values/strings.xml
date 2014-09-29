@@ -3,6 +3,7 @@
 
     <string name="app_name">HelloWorldV3</string>
     <string name="hello_world">Hello world! - Jessica edit</string>
+    <string name="new_string">New String Created</string>
     <string name="action_settings">Settings</string>
 
 </resources>

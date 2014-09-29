@@ -2,6 +2,26 @@ PackdAndroidApp
 ===============
 Android app for the Packd app.
 
+Setup
+=====
+1. We've decided to use Android Studio as our development software.  
+https://developer.android.com/sdk/installing/studio.html  
+
+Make sure you have that downloaded. It should create a workspace in  
+the root of your system, called /Androidstudioprojects. This is where  
+Android studio will modify and run your projects.  
+
+2. Navigate in to your /Androidstudioprojects folder, using the terminal.  
+3. Clone this repo with the following command:  
+git clone https://github.com/Nsrose/PackdAndroidApp.git  
+4. Make a branch with your name so you can work on it and not interfere with the master branch:  
+git branch mybranchname  
+git checkout mybranchname  
+git push origin mybranchname  
+
+5. Now you're set up to work on the project on your branch whenever you wish!
+
+
 Git Notes
 =========
 
